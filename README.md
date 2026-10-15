@@ -14,12 +14,6 @@ Juego tradicional de la Lotería Mexicana con temática de Dolores Hidalgo y la 
 * **`lib/main.dart`**: Capa de interfaz gráfica de usuario en Flutter[cite: 1].
 * **`test/`**: Pruebas unitarias y de integración para cada una de las rondas de TDD[cite: 1].
 
-## 🚀 Cómo ejecutar el proyecto
-
-1. **Clonar el repositorio**[cite: 2]:
-   ```bash
-   git clone <url-de-tu-repositorio>
-   cd loteria_dolorena
 
    ## 📸 Evidencia
 
